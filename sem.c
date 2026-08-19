@@ -1,7 +1,4 @@
 
-/*
- * sem.c - Producer-Consumer using Semaphores
- */
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <unistd.h>     
